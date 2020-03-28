@@ -1,0 +1,1 @@
+{'model': 'VGG16', 'vgg-weights': 'imagenet', 'layer_1_activation': 'relu', 'layer_2_activation': 'softmax', 'alpha': 0.001, 'epochs': 3, 'batchs': 4}

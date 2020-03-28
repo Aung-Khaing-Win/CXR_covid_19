@@ -1,0 +1,5 @@
+,covid,normal
+precision,0.79,0.89
+recall,0.92,0.73
+f1-score,0.85,0.8
+support,12.0,11.0
